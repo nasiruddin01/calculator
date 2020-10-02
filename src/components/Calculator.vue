@@ -123,6 +123,7 @@ export default {
   margin: 3px;
   text-align: center;
   border-radius: 2px;
+  cursor: pointer;
 }
 .operator {
   background-color: orange;
