@@ -1,4 +1,8 @@
 # calculator
+This site build vue.js framework.
+
+Site live link: https://calculatorapps.netlify.app/
+
 
 ## Project setup
 ```
